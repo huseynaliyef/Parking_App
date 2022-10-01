@@ -1,0 +1,31 @@
+C:\Users\Student\Desktop\New folder\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\Student\Desktop\New folder\Parking\Parking\bin\Debug\Parking.exe
+C:\Users\Student\Desktop\New folder\Parking\Parking\bin\Debug\Parking.pdb
+C:\Users\Student\Desktop\New folder\Parking\Parking\obj\Debug\Parking.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\New folder\Parking\Parking\obj\Debug\Parking.Form1.resources
+C:\Users\Student\Desktop\New folder\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Users\Student\Desktop\New folder\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\New folder\Parking\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\New folder\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\Student\Desktop\New folder\Parking\Parking\obj\Debug\Parking.pdb
+C:\Users\ASUS TUF GAMING\Desktop\Parking App\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\ASUS TUF GAMING\Desktop\Parking App\Parking\Parking\bin\Debug\Parking.exe
+C:\Users\ASUS TUF GAMING\Desktop\Parking App\Parking\Parking\bin\Debug\Parking.pdb
+C:\Users\ASUS TUF GAMING\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF GAMING\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS TUF GAMING\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.Form1.resources
+C:\Users\ASUS TUF GAMING\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Users\ASUS TUF GAMING\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.cache
+C:\Users\ASUS TUF GAMING\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\ASUS TUF GAMING\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.pdb
+C:\Users\Administrator\Desktop\Parking App\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\Administrator\Desktop\Parking App\Parking\Parking\bin\Debug\Parking.exe
+C:\Users\Administrator\Desktop\Parking App\Parking\Parking\bin\Debug\Parking.pdb
+C:\Users\Administrator\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.Form1.resources
+C:\Users\Administrator\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\Administrator\Desktop\Parking App\Parking\Parking\obj\Debug\Parking.pdb
